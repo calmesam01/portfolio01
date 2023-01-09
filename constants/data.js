@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "calmesam01",
   name: "Sanyam Sareen",
   designation: "Frontend Engineer",
-  avatarUrl: "/avatar.jpg",
+  avatarUrl: "/demo.jpg",
   email: "sanyamsareen01@gmail.com",
   address: "Victoria BC, Canada",
   projects: [
@@ -78,7 +78,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1qd8AHGZybNP-z-wKhO3k0xyDtWCG-yqT/view?usp=share_link",
+    "https://drive.google.com/file/d/1Gox7AhLuDMF8Gjf0FKy3uU2HPakftNGC/view?usp=share_link",
   socialLinks: {
     instagram: "https://instagram.com/crazyashel",
     twitter: "https://twitter.com/SanyamSareen",
