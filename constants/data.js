@@ -8,18 +8,23 @@ const userData = {
   projects: [
     {
       title: "Portfolio",
-      link: "https://sanyamsareen.com",
+      link: "https://github.com/calmesam01/portfolio01",
       imgUrl: "/portfolio.png",
     },
     {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
+      title: "Raju Tiffin Service",
+      link: "https://github.com/calmesam01/raju-tiffin-service",
+      imgUrl: "/raju.png",
     },
     {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
+      title: "The Sensation Blogging Platform",
+      link: "https://github.com/calmesam01/The-Sensation-Blogging-Platform",
+      imgUrl: "/sensation-blog.png",
+    },
+    {
+      title: "The Sensation Brewery",
+      link: "https://github.com/calmesam01/The-Sensation-Brewery",
+      imgUrl: "/sensation-brewery.png",
     },
   ],
   about: {
