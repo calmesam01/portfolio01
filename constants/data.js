@@ -40,6 +40,12 @@ const userData = {
   },
   experience: [
     {
+      title: "Frontend Developer",
+      company: "Rimex Supply Ltd., Victoria BC, Canada",
+      year: "Feb 2023 - Present",
+      desc: ["Working on TyreSense - the most trusted temperature and pressure monitoring system since 1999 worldwide, using typeScript, Kendo UI and .NET", "Redesigned the Asset Management System (AMS) with mock-up designs using Figma and programmed into kendo UI using typeScript"],
+    },
+    {
       title: "Frontend Engineer",
       company: "Snail Team Six Software Development Corp, Victoria BC, Canada",
       year: "Mar 2021 - Dec 2022",
