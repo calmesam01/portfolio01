@@ -11,6 +11,8 @@
     "axios": "^0.21.1",
     "next": "latest",
     "next-themes": "latest",
+    "overmind": "^28.0.3",
+    "overmind-react": "^29.0.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-rough-notation": "^1.0.1",
